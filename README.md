@@ -74,7 +74,11 @@ Key product considerations included:
 - Torch
 
 ---
+## Live Demo
+Try the application here:https://course-recommenderr.streamlit.app/
 
+---
+## Application Preview
 <img width="1897" height="900" alt="Screenshot 2026-03-19 100529" src="https://github.com/user-attachments/assets/59fdb16b-c472-436a-997e-d895016069d0" />
 <img width="1910" height="920" alt="Screenshot 2026-03-19 100548" src="https://github.com/user-attachments/assets/175483e8-61b2-4e6b-9938-b77236f196f6" />
 <img width="1907" height="906" alt="Screenshot 2026-03-19 100603" src="https://github.com/user-attachments/assets/9a825f22-d56d-4d1d-9daa-2c5ead74fce2" />
