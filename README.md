@@ -39,26 +39,6 @@ It then recommends the most relevant courses and explains why they were selected
 
 ---
 
-## Key Features
-
-- Personalized recommendations based on user profile
-- Multi-role support for roles such as:
-  - ML Engineer
-  - Data Analyst
-  - AI Product Manager
-  - Backend Engineer
-  - Frontend Engineer
-  - Cloud Engineer
-  - DevOps Engineer
-  - UI/UX Designer
-  - Cybersecurity Analyst
-- Hybrid scoring using semantic similarity and structured product logic
-- Recommendation reason generation
-- Interactive Streamlit interface
-- Course catalog view
-
----
-
 ## Product Thinking Behind the Project
 
 This project was designed as more than a coding demo. It also reflects product management thinking around personalization systems.
@@ -95,49 +75,6 @@ Key product considerations included:
 
 ---
 
-## Example Roles Supported
-
-The system can generate recommendations for roles such as:
-- Machine Learning Engineer
-- Data Scientist
-- Data Analyst
-- Business Analyst
-- AI Product Manager
-- Product Manager
-- Backend Engineer
-- Frontend Engineer
-- UI/UX Designer
-- Cloud Engineer
-- DevOps Engineer
-- Cybersecurity Analyst
-
----
-
-## Example Recommendation Logic
-
-For a user with a goal such as **ML Engineer**, the system prioritizes courses related to:
-- machine learning
-- statistics
-- deep learning
-- MLOps
-- feature engineering
-
-For a user targeting **Data Analyst**, it prioritizes:
-- SQL
-- Excel
-- Power BI
-- Tableau
-- dashboards and reporting
-
-For **AI Product Manager**, it prioritizes:
-- AI product strategy
-- metrics
-- experimentation
-- user research
-- generative AI fundamentals
-
----
-
 ## Project Structure
 
 ```bash
@@ -145,3 +82,7 @@ ai-course-recommender/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+<img width="1897" height="900" alt="Screenshot 2026-03-19 100529" src="https://github.com/user-attachments/assets/59fdb16b-c472-436a-997e-d895016069d0" />
+<img width="1910" height="920" alt="Screenshot 2026-03-19 100548" src="https://github.com/user-attachments/assets/175483e8-61b2-4e6b-9938-b77236f196f6" />
+<img width="1907" height="906" alt="Screenshot 2026-03-19 100603" src="https://github.com/user-attachments/assets/9a825f22-d56d-4d1d-9daa-2c5ead74fce2" />
